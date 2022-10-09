@@ -145,7 +145,7 @@ body {
   overflow: hidden;
   color: white;
   font-weight: 700;
-  margin-left: -58px;
+  margin-left: -54px;
   height: 30px;
   align-items: center;
   text-decoration: none;
@@ -154,7 +154,7 @@ body {
 .mask {
   position: relative;
   padding: 0;
-  height: 23px;
+  height: 24px;
 
   /*  Remove overflow to see how it works　:) */
   overflow: hidden;
